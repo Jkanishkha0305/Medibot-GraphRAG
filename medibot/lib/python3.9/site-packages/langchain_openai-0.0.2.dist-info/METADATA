@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: langchain-openai
+Version: 0.0.2
+Summary: An integration package connecting OpenAI and LangChain
+Requires-Python: >=3.8.1,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: langchain-core (>=0.1.7,<0.2)
+Requires-Dist: numpy (>=1,<2)
+Requires-Dist: openai (>=1.6.1,<2.0.0)
+Requires-Dist: tiktoken (>=0.5.2,<0.6.0)
+Description-Content-Type: text/markdown
+
+# langchain-openai
+
